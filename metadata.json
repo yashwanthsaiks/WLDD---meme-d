@@ -1,0 +1,6 @@
+{
+  "name": "Meme'd Campaign Payout Tracker",
+  "description": "Creator marketplace campaign payout tracker with milestone ladders, strict budget caps, fraud spike detection, and real-time view simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
